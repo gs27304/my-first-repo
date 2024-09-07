@@ -1,3 +1,3 @@
 # my-first-repo
 
-hi this is gaqjendra singh
+hi this is gajendra singh
